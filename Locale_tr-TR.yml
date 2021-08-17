@@ -17,5 +17,5 @@ Messages:
   Guild-You_Have_Guild: §7Şu anda zaten bir karteldesin.
   Guild-Again_To_Remove: §7Kartel yıkma işlemini tamamlamak için komutu tekrarla. §e[/kartel yık§e]
   Guild-Deleted: §7Kartelinizi yıktınız.
-  Guild-Deleted_Broadcast: §d§n{PLAYER}§7, isimli oyuncu §c{KARTEL}§7 kartelini yıktı.
+  Guild-Deleted_Broadcast: §d§n{KARTEL}§7 isimli kartel yıkıldı.
  
