@@ -1,2 +1,6 @@
 Messages:
   Prefix: §6§lKARTEL §e➥§7
+  Char_Err: Yazdığın kelimedeki bazı karakter(ler) desteklenmiyor.
+  WG_Err: Bu alan WorldGuard tarafından korumalı.
+  Chunk_Err: Bu alanda başka bir kartel bulunuyor.
+  Land_Err: Bulunduğun konum güvenli değil.
