@@ -1,18 +1,18 @@
 Messages:
   Prefix: §6§lKARTEL §e➥§7
-  Char_Err: Yazdığın kelimedeki bazı karakter(ler) desteklenmiyor.
-  WG_Err: Bu alan WorldGuard tarafından korumalı.
-  Chunk_Err: Bu alanda başka bir kartel bulunuyor.
-  Land_Err: Bulunduğun konum güvenli değil.
-  Char_Doesnt_Accept: Sunucu bu harfleri kabul etmiyor.
+  Char_Err: §7Yazdığın kelimedeki bazı karakter(ler) desteklenmiyor.
+  WG_Err: §7Bu alan WorldGuard tarafından korumalı.
+  Chunk_Err: §7Bu alanda başka bir kartel bulunuyor.
+  Land_Err: §7Bulunduğun konum güvenli değil.
+  Char_Doesnt_Accept: §7Sunucu bu harfleri kabul etmiyor.
   #
   Guild-Guild_Created: §d{PLAYER}§7, §c{KARTEL} §7isminde bir kartel kurdu.
-  Guild-Guild_Exists: Bu isimde bir kartel var.
-  Guild-Enter_Guild_Name: Kartelin için bir isim gir.
-  Guild-Name_Lenght: Girdiğin isim çok uzun ve ya çok kısa.
-  Guild-You_Dont_Have_Dia-For-Cr: Kartel oluşturmak için yeterli elmasın yok.
-  Guild-You_Only_Create_World: Kartelini yalnızca §d§nOrman§7 mapinde kurabilirsin.
-  Guild-Creating_Above_Block: Lütfen bir bloğun üstünde dur. §e[Hava, su ve ya lav üstünde isen kuramazsın.]
-  Guild-Write_Guild_Name: Kartelin için bir isim belirle.
-  Guild-You_Have_Guild: Şu anda zaten bir karteldesin.
+  Guild-Guild_Exists: §7Bu isimde bir kartel var.
+  Guild-Enter_Guild_Name: §7Kartelin için bir isim gir.
+  Guild-Name_Lenght: §7Girdiğin isim çok uzun ve ya çok kısa.
+  Guild-You_Dont_Have_Dia-For-Cr: §7Kartel oluşturmak için yeterli elmasın yok.
+  Guild-You_Only_Create_World: §7Kartelini yalnızca §d§nOrman§7 mapinde kurabilirsin.
+  Guild-Creating_Above_Block: §7Lütfen bir bloğun üstünde dur. §e[Hava, su ve ya lav üstünde isen kuramazsın.]
+  Guild-Write_Guild_Name: §7Kartelin için bir isim belirle.
+  Guild-You_Have_Guild: §7Şu anda zaten bir karteldesin.
  
