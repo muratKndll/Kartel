@@ -19,4 +19,5 @@ Messages:
   Guild-Deleted: §7Kartelinizi yıktınız.
   Guild-Deleted_Broadcast: §d§n{KARTEL}§7 isimli kartel yıkıldı.
   Guild-Dont_Have_Perm_To_Delete: §7Bu karteli yıkmaya yetkin yok.
+  Guild-Dont_Have_Guild: §7Her hangi bir kartele sahip değilsin.
  
