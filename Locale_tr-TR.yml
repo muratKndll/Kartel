@@ -4,3 +4,8 @@ Messages:
   WG_Err: Bu alan WorldGuard tarafından korumalı.
   Chunk_Err: Bu alanda başka bir kartel bulunuyor.
   Land_Err: Bulunduğun konum güvenli değil.
+  #
+  Guild-Guild_Created: §d{PLAYER}§7, §c{KARTEL} §7isminde bir kartel kurdu.
+  Guild-Guild_Exists: Bu isimde bir kartel var.
+  Guild-Enter_Guild_Name: Kartelin için bir isim gir.
+  Guild-Name_Lenght: Girdiğin isim çok uzun ve ya çok kısa. §e[Min: 4, Max: 12]
