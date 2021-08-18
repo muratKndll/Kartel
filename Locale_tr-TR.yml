@@ -27,10 +27,14 @@ Messages:
   Guild-Teleportation_Starting: §7Işınlanma işlemi başlıyor.
   Guild-Home_Teleport_Will_Stopped: §7Şu anda kartel evine ışınlanma kapalı.
   Guild-Dont_Have_Perm_Form_This: §7Bunu yapabilmek için yetkin yok.
+  Guild-Chat: §e[K] §7
   #
   Claim-Done_SetHome: §7Karteliniz için yeni ev noktası belirlendi.
   Claim-This-Land_Isnt_Yours: §7Bu bölgenin sahibi senin kartelin değil.
   Claim-Limit: §7Karteliniz için maksimum claim limitine ulaştınız.
   Claim-Only_Orman: §7Yalnızca orman bölgesinde claim atılabilir.
+  Claim-Its_Yours: §7Bu toprak zaten senin.
+  Claim-Chunk_Claimed: §c{LAND} §7konumda olan toprağı ele geçirdiniz.
+  
   #
   WG_Disabled-Option: §7Böyle bir özellik bulunmamaktadır.
