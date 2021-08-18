@@ -26,5 +26,6 @@ Messages:
   Guild-Teleportation_Already: §7Şu anda zaten bir ışınlanma işlemin var.
   Guild-Teleportation_Starting: §7Işınlanma işlemi başlıyor.
   Guild-Home_Teleport_Will_Stopped: §7Şu anda kartel evine ışınlanma kapalı.
+  Guild-Dont_Have_Perm_Form_This: §7Bunu yapabilmek için yetkin yok.
   #
   Claim-Done_SetHome: §7Karteliniz için yeni ev noktası belirlendi.
