@@ -20,4 +20,7 @@ Messages:
   Guild-Deleted_Broadcast: §d§n{KARTEL}§7 isimli kartel yıkıldı.
   Guild-Dont_Have_Perm_To_Delete: §7Bu karteli yıkmaya yetkin yok.
   Guild-Dont_Have_Guild: §7Her hangi bir kartele sahip değilsin.
- 
+  Guild-Teleportation_Start-SubTitle: §aIşınlanma işlemi başladı. §b(7 saniye..)
+  Guild-Teleportation_Stopped: §7Kartel evine ışınlanma işlemi iptal edildi.
+  Guild-Teleportation_Finished-Subtitle: §aIşınlanma işlemi başarılı.
+  Guild-Teleportation_Already: §7Şu anda zaten bir ışınlanma işlemin var.
