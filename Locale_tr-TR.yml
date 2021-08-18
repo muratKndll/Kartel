@@ -31,4 +31,6 @@ Messages:
   Claim-Done_SetHome: §7Karteliniz için yeni ev noktası belirlendi.
   Claim-This-Land_Isnt_Yours: §7Bu bölgenin sahibi senin kartelin değil.
   Claim-Limit: §7Karteliniz için maksimum claim limitine ulaştınız.
+  Claim-Only_Orman: §7Yalnızca orman bölgesinde claim atılabilir.
+  #
   WG_Disabled-Option: §7Böyle bir özellik bulunmamaktadır.
