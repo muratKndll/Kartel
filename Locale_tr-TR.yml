@@ -38,6 +38,7 @@ Messages:
   Claim-Here_Claimed: §7Bu alan daha önceden başka bir lonca tarafından claimlenmiş.
   Claim-Not_Enough_Gold: §7Bu alanı almak için toplam §e{AMOUNT} altına §7ihtiyacın var.
   Claim-Disabled: §7Claim yapabilme özelliğiniz devre dışı.
+  Claim-Chunk_Unclaimed: §c{PLAYER}§7, kartelinize ait §b{CHUNK}§7 bölgesindeki claimi kaldırdı.
   
   #
   WG_Disabled-Option: §7Böyle bir özellik bulunmamaktadır.
