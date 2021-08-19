@@ -35,6 +35,7 @@ Messages:
   Claim-Only_Orman: §7Yalnızca orman bölgesinde claim atılabilir.
   Claim-Its_Yours: §7Bu toprak zaten senin.
   Claim-Chunk_Claimed: §c{LAND} §7konumda olan toprağı ele geçirdiniz.
+  Claim-Here_Claimed: §7Bu alan daha önceden başka bir lonca tarafından claimlenmiş.
   
   #
   WG_Disabled-Option: §7Böyle bir özellik bulunmamaktadır.
