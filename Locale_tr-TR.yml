@@ -36,6 +36,7 @@ Messages:
   Claim-Its_Yours: §7Bu toprak zaten senin.
   Claim-Chunk_Claimed: §c{LAND} §7konumda olan toprağı ele geçirdiniz.
   Claim-Here_Claimed: §7Bu alan daha önceden başka bir lonca tarafından claimlenmiş.
+  Claim-Not_Enough_Gold: §7Bu alanı almak için toplam §e{AMOUNT} altına §7ihtiyacın var.
   
   #
   WG_Disabled-Option: §7Böyle bir özellik bulunmamaktadır.
