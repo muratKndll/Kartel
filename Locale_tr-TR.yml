@@ -44,4 +44,4 @@ Messages:
   WG_Disabled-Option: §7Böyle bir özellik bulunmamaktadır.
   
   #
-  MemberInf_Lore: '"test1", "test2"'
+  MemberInf_Lore: "test1", "test2"
