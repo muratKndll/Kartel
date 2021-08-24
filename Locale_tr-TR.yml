@@ -44,7 +44,7 @@ Messages:
   #
   MemberInfo_Lore-1: '§e(Son Görülme: §f{LAST})'
   MemberInfo_Lore-2: '§r'
-  MemberInfo_Lore-3: '§e(Yetki: §f{RANK})
+  MemberInfo_Lore-3: '§e(Yetki: §f{RANK})'
   MemberInfo_Lore-5: '§eKatılma Tarihi: §f{JOIN}'
   MemberInfo_Lore-6: '§aBağış;'
   MemberInfo_Lore-7: '{COLOR} → {STONE}§f: {DONATE}'
