@@ -54,4 +54,5 @@ Messages:
   MemberInfo_Lore-10: '§e → §fAltın: {DONATE}'
   MemberInfo_Lore-11: '§b → §fElmas: {DONATE}'
   MemberInfo_Lore-12: '§eSağ-Tıkla§7 ve oyuncu detaylarına bak.'
-  MemberInfo_Lore-13: '§e{RANK} §e{KICK}'
+  MemberInfo_Lore_13: '§f'
+  MemberInfo_Lore-14: '§e{RANK} §e{KICK}'
